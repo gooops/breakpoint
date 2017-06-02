@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Python 2.7 Standard Library
-import ConfigParser
+# Python 3.* Standard Library
+import configparser
 import os
 import os.path
 import shutil
